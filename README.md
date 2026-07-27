@@ -267,8 +267,8 @@ Analog VHS · tracking · CRT
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ry4ngupta&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ry4ngupta&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=ryanagupta&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanagupta&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Languages">
 
 <br><br>
 
