@@ -31,7 +31,7 @@ I enjoy building systems from first principles, testing ideas and understanding 
 
 I'm interested in machine learning, evolutionary computation and quantitative modelling. I particularly enjoy projects where I can design an algorithm, train or optimise it, and measure how well it performs rather than relying on a black-box API.
 
-This profile is a record of what I've built and what I'm exploring. Projects labelled planned are ideas, not finished work.
+This profile is a record of what I've built and what I'm exploring.
 
 ## Projects
 ### Mario Player using Neuroevolution 
