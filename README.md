@@ -1,6 +1,16 @@
 <div align="center">
 
-# Ryan Gupta
+<pre>
+   ▄████████ ▄██   ▄      ▄████████ ███▄▄▄▄           ▄██████▄  ███    █▄     ▄███████▄     ███        ▄████████ 
+  ███    ███ ███   ██▄   ███    ███ ███▀▀▀██▄        ███    ███ ███    ███   ███    ███ ▀█████████▄   ███    ███ 
+  ███    ███ ███▄▄▄███   ███    ███ ███   ███        ███    █▀  ███    ███   ███    ███    ▀███▀▀██   ███    ███ 
+ ▄███▄▄▄▄██▀ ▀▀▀▀▀▀███   ███    ███ ███   ███       ▄███        ███    ███   ███    ███     ███   ▀   ███    ███ 
+▀▀███▀▀▀▀▀   ▄██   ███ ▀███████████ ███   ███      ▀▀███ ████▄  ███    ███ ▀█████████▀      ███     ▀███████████ 
+▀███████████ ███   ███   ███    ███ ███   ███        ███    ███ ███    ███   ███            ███       ███    ███ 
+  ███    ███ ███   ███   ███    ███ ███   ███        ███    ███ ███    ███   ███            ███       ███    ███ 
+  ███    ███  ▀█████▀    ███    █▀   ▀█   █▀         ████████▀  ████████▀   ▄████▀         ▄████▀     ███    █▀  
+  ███    ███                                                                                                     
+</pre>
 
 **18 · UK · Interested in machine learning, algorithms and computer science**
 
@@ -24,21 +34,9 @@ I'm interested in **machine learning, evolutionary computation and quantitative 
 This profile is a record of what I've built and what I'm exploring. Projects labelled **planned** are ideas, not finished work.
 
 ## Projects
-
-### GCSE Marker · Built
-
-An application for marking extended-response GCSE answers using exam questions and mark schemes. I explored how automated marks compare with human marking, and where the system makes mistakes.
-
-**Focus:** evaluation methodology, error analysis, Python, educational software  
-[Visit project](https://gcsemarker.com)
-
----
-
-### Mario Neuroevolution · Planned
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Mario Player using Neuroevolution 
 Train an agent to play a classic platformer using **NEAT (NeuroEvolution of Augmenting Topologies)**. Instead of hand-coding the controls, evolve neural-network structures and weights by selecting agents that make the most progress.
-
-**Research questions:** How do fitness functions change learned behaviour? Can a policy trained on one level generalise to another?
 
 **Proposed stack:** Python · NEAT-Python · NES emulator · NumPy · Matplotlib
 
@@ -46,25 +44,21 @@ Train an agent to play a classic platformer using **NEAT (NeuroEvolution of Augm
 
 ---
 
-### Limit Order Book Modelling · Planned
+### Limit Order Book Modelling 
 
-Investigate whether a **convolutional neural network** can learn short-term price-movement signals from sequences of bid/ask prices and volumes. Compare the CNN against simpler statistical and machine-learning baselines.
+A **convolutional neural network** that can learn short-term price-movement signals from sequences of bid/ask prices and volumes. Compare the CNN against simpler statistical and machine-learning baselines.
 
-**Research questions:** Does the model outperform a simple baseline on unseen periods? Does any predictive signal survive realistic transaction costs?
-
-**Proposed stack:** Python · PyTorch · Polars · scikit-learn
+**Stack:** Python · PyTorch · Polars · scikit-learn
 
 **What I want to publish:** reproducible data processing, chronological train/test splits, ablation studies and cost-aware backtests. This is a research project, not a claim of profitable trading.
 
 ---
 
-### Image Retrieval from Scratch · Planned
+### Image Retrieval from Scratch
 
 Build an image search engine that retrieves visually similar pictures using **CNN embeddings** and nearest-neighbour search. Experiment with contrastive learning and benchmark retrieval quality against a basic feature extractor.
 
-**Research questions:** Which embeddings work best? How much do data augmentation and embedding size affect retrieval?
-
-**Proposed stack:** Python · PyTorch · FAISS · FastAPI
+**Stack:** Python · PyTorch · FAISS · FastAPI
 
 **What I want to publish:** a small demo, labelled evaluation set and retrieval metrics such as Recall@K.
 
