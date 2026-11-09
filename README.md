@@ -14,7 +14,7 @@
 
 **18 · UK · Interested in machine learning, algorithms and computer science**
 
-I enjoy building systems from first principles, testing ideas and understanding *why* they work.
+I enjoy building systems from first principles, testing ideas and understanding why they work.
 
 <br>
 
