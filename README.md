@@ -12,7 +12,7 @@
   ███    ███                                                                                                     
 </pre>
 
-18 · UK · Interested in machine learning, reinforcement learning and archetechures
+18 · UK · Interested in machine learning, reinforcement learning and architechtures
 
 I enjoy building systems from first principles, testing ideas and understanding why they work.
 
