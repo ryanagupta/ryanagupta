@@ -19,7 +19,7 @@ I enjoy building systems from first principles, testing ideas and understanding 
 <br>
 
 <a href="https://instagram.com/ry4ngupta" aria-label="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="27" height="27"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ry4ngupta/" aria-label="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="27" height="27"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ry4ngupta/" aria-label="LinkedIn"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="LinkedIn" width="27" height="27"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/ryanguppy" aria-label="Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="27" height="27"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://youtube.com/@ry4ngupta" aria-label="YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0033" alt="YouTube" width="27" height="27"></a>
 
@@ -34,11 +34,10 @@ I'm interested in **machine learning, evolutionary computation and quantitative 
 This profile is a record of what I've built and what I'm exploring. Projects labelled **planned** are ideas, not finished work.
 
 ## Projects
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Mario Player using Neuroevolution 
 Train an agent to play a classic platformer using **NEAT (NeuroEvolution of Augmenting Topologies)**. Instead of hand-coding the controls, evolve neural-network structures and weights by selecting agents that make the most progress.
 
-**Proposed stack:** Python · NEAT-Python · NES emulator · NumPy · Matplotlib
+**Stack:** Python · NEAT-Python · NES emulator · NumPy · Matplotlib
 
 **What I want to publish:** training code, generation-by-generation progress graphs, network visualisations and gameplay recordings.
 
