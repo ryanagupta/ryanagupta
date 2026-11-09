@@ -12,7 +12,7 @@
   ███    ███                                                                                                     
 </pre>
 
-<sub>**M A C H I N E   L E A R N I N G**   ·   **I N T E R F A C E S**   ·   **T O O L I N G**</sub>
+<sub>**Machine Learning**</sub>
 
 <br><br>
 
