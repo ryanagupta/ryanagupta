@@ -37,35 +37,35 @@ This profile is a record of what I've built and what I'm exploring. Projects lab
 ### Mario Player using Neuroevolution 
 Train an agent to play a classic platformer using **NEAT (NeuroEvolution of Augmenting Topologies)**. Instead of hand-coding the controls, evolve neural-network structures and weights by selecting agents that make the most progress.
 
-**Stack:** Python · NEAT-Python · NES emulator · NumPy · Matplotlib
+Stack: Python · NEAT-Python · NES emulator · NumPy · Matplotlib
 
-**What I want to publish:** training code, generation-by-generation progress graphs, network visualisations and gameplay recordings.
+What I want to publish: training code, generation-by-generation progress graphs, network visualisations and gameplay recordings.
 
 ---
 
 ### Limit Order Book Modelling 
 
-A **convolutional neural network** that can learn short-term price-movement signals from sequences of bid/ask prices and volumes. Compare the CNN against simpler statistical and machine-learning baselines.
+A convolutional neural network (CNN) that can learn short-term price-movement signals from sequences of bid/ask prices and volumes. Compare the CNN against simpler statistical and machine-learning baselines.
 
-**Stack:** Python · PyTorch · Polars · scikit-learn
+Stack: Python · PyTorch · TensorFlow · Polars · scikit-learn
 
-**What I want to publish:** reproducible data processing, chronological train/test splits, ablation studies and cost-aware backtests. This is a research project, not a claim of profitable trading.
+What I want to publish: reproducible data processing, chronological train/test splits, ablation studies and cost-aware backtests. This is a research project, not a claim of profitable trading.
 
 ---
 
 ### Image Retrieval from Scratch
 
-Build an image search engine that retrieves visually similar pictures using **CNN embeddings** and nearest-neighbour search. Experiment with contrastive learning and benchmark retrieval quality against a basic feature extractor.
+Build an image search engine that retrieves visually similar pictures using CNN embeddings and nearest-neighbour search. Experiment with contrastive learning and benchmark retrieval quality against a basic feature extractor.
 
-**Stack:** Python · PyTorch · FAISS · FastAPI
+Stack: Python · PyTorch · FAISS · FastAPI
 
-**What I want to publish:** a small demo, labelled evaluation set and retrieval metrics such as Recall@K.
+Publish: A small demo, labelled evaluation set and retrieval metrics such as Recall@K.
 
 ## What I'm learning
 
-- **Machine learning:** neural networks, convolutional networks, neuroevolution and model evaluation.
-- **Mathematics:** probability, statistics, optimisation and linear algebra.
-- **Software engineering:** Python, C++, Git, Linux, testing and reproducible experiments.
+Machine learning: neural networks, convolutional networks, neuroevolution and model evaluation.
+- Mathematics: probability, statistics, optimisation and linear algebra.
+- Software engineering: Python, C++, Git, Linux, testing and reproducible experiments.
 
 ## Tools
 
