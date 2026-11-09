@@ -1,28 +1,15 @@
 <div align="center">
 
 <pre>
-RRRRRRRRRRRRRRRRR                                                                          GGGGGGGGGGGGG                                              tttt                            
-R::::::::::::::::R                                                                      GGG::::::::::::G                                           ttt:::t                            
-R::::::RRRRRR:::::R                                                                   GG:::::::::::::::G                                           t:::::t                            
-RR:::::R     R:::::R                                                                 G:::::GGGGGGGG::::G                                           t:::::t                            
-  R::::R     R:::::Ryyyyyyy           yyyyyyyaaaaaaaaaaaaa  nnnn  nnnnnnnn          G:::::G       GGGGGGuuuuuu    uuuuuu ppppp   ppppppppp   ttttttt:::::ttttttt      aaaaaaaaaaaaa   
-  R::::R     R:::::R y:::::y         y:::::y a::::::::::::a n:::nn::::::::nn       G:::::G              u::::u    u::::u p::::ppp:::::::::p  t:::::::::::::::::t      a::::::::::::a  
-  R::::RRRRRR:::::R   y:::::y       y:::::y  aaaaaaaaa:::::an::::::::::::::nn      G:::::G              u::::u    u::::u p:::::::::::::::::p t:::::::::::::::::t      aaaaaaaaa:::::a 
-  R:::::::::::::RR     y:::::y     y:::::y            a::::ann:::::::::::::::n     G:::::G    GGGGGGGGGGu::::u    u::::u pp::::::ppppp::::::ptttttt:::::::tttttt               a::::a 
-  R::::RRRRRR:::::R     y:::::y   y:::::y      aaaaaaa:::::a  n:::::nnnn:::::n     G:::::G    G::::::::Gu::::u    u::::u  p:::::p     p:::::p      t:::::t              aaaaaaa:::::a 
-  R::::R     R:::::R     y:::::y y:::::y     aa::::::::::::a  n::::n    n::::n     G:::::G    GGGGG::::Gu::::u    u::::u  p:::::p     p:::::p      t:::::t            aa::::::::::::a 
-  R::::R     R:::::R      y:::::y:::::y     a::::aaaa::::::a  n::::n    n::::n     G:::::G        G::::Gu::::u    u::::u  p:::::p     p:::::p      t:::::t           a::::aaaa::::::a 
-  R::::R     R:::::R       y:::::::::y     a::::a    a:::::a  n::::n    n::::n      G:::::G       G::::Gu:::::uuuu:::::u  p:::::p    p::::::p      t:::::t    tttttta::::a    a:::::a 
-RR:::::R     R:::::R        y:::::::y      a::::a    a:::::a  n::::n    n::::n       G:::::GGGGGGGG::::Gu:::::::::::::::uup:::::ppppp:::::::p      t::::::tttt:::::ta::::a    a:::::a 
-R::::::R     R:::::R         y:::::y       a:::::aaaa::::::a  n::::n    n::::n        GG:::::::::::::::G u:::::::::::::::up::::::::::::::::p       tt::::::::::::::ta:::::aaaa::::::a 
-R::::::R     R:::::R        y:::::y         a::::::::::aa:::a n::::n    n::::n          GGG::::::GGG:::G  uu::::::::uu:::up::::::::::::::pp          tt:::::::::::tt a::::::::::aa:::a
-RRRRRRRR     RRRRRRR       y:::::y           aaaaaaaaaa  aaaa nnnnnn    nnnnnn             GGGGGG   GGGG    uuuuuuuu  uuuup::::::pppppppp              ttttttttttt    aaaaaaaaaa  aaaa
-                          y:::::y                                                                                         p:::::p                                                     
-                         y:::::y                                                                                          p:::::p                                                     
-                        y:::::y                                                                                          p:::::::p                                                    
-                       y:::::y                                                                                           p:::::::p                                                    
-                      yyyyyyy                                                                                            p:::::::p                                                    
-                                                                                                                         ppppppppp                                                    
+   ▄████████ ▄██   ▄      ▄████████ ███▄▄▄▄           ▄██████▄  ███    █▄     ▄███████▄     ███        ▄████████ 
+  ███    ███ ███   ██▄   ███    ███ ███▀▀▀██▄        ███    ███ ███    ███   ███    ███ ▀█████████▄   ███    ███ 
+  ███    ███ ███▄▄▄███   ███    ███ ███   ███        ███    █▀  ███    ███   ███    ███    ▀███▀▀██   ███    ███ 
+ ▄███▄▄▄▄██▀ ▀▀▀▀▀▀███   ███    ███ ███   ███       ▄███        ███    ███   ███    ███     ███   ▀   ███    ███ 
+▀▀███▀▀▀▀▀   ▄██   ███ ▀███████████ ███   ███      ▀▀███ ████▄  ███    ███ ▀█████████▀      ███     ▀███████████ 
+▀███████████ ███   ███   ███    ███ ███   ███        ███    ███ ███    ███   ███            ███       ███    ███ 
+  ███    ███ ███   ███   ███    ███ ███   ███        ███    ███ ███    ███   ███            ███       ███    ███ 
+  ███    ███  ▀█████▀    ███    █▀   ▀█   █▀         ████████▀  ████████▀   ▄████▀         ▄████▀     ███    █▀  
+  ███    ███                                                                                                     
 </pre>
 
 <sub>**M A C H I N E   L E A R N I N G**   ·   **I N T E R F A C E S**   ·   **T O O L I N G**</sub>
