@@ -75,6 +75,3 @@ Machine learning: neural networks, convolutional networks, neuroevolution and mo
 
 <br>
 
-<div align="center">
-<sub>Interested in the space between mathematics, software and learning algorithms.</sub>
-</div>
